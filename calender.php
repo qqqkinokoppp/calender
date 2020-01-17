@@ -171,6 +171,3 @@ $previousMonth = $next -> format('m');
 
 </body>
 </html>
-
-</body>
-</html>
